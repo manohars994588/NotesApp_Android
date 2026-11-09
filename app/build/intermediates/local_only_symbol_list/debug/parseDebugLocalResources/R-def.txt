@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_gradient
+drawable bg_primary_button
+drawable bg_search
+drawable bg_white_card
+style Theme.NotesApp

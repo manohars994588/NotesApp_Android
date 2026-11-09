@@ -1,0 +1,4 @@
+#Mon Nov 09 10:29:20 IST 2026
+base.0=D\:\\mad\\NotesApp_Android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

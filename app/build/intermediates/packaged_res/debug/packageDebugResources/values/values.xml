@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NotesApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#25B9D7</item>
+        <item name="colorPrimaryVariant">#168FC5</item>
+        <item name="colorSecondary">#D34DBB</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#269ED4</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.notesapp-debug-37:/drawable_bg_primary_button.xml.flat",
+        "source": "com.example.notesapp-main-39:/drawable/bg_primary_button.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-37:/drawable_bg_gradient.xml.flat",
+        "source": "com.example.notesapp-main-39:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-37:/drawable_bg_search.xml.flat",
+        "source": "com.example.notesapp-main-39:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.example.notesapp-debug-37:/drawable_bg_white_card.xml.flat",
+        "source": "com.example.notesapp-main-39:/drawable/bg_white_card.xml"
+    }
+]
